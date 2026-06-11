@@ -41,22 +41,3 @@ SELECT category,
 FROM retail_shopping_behavior
 GROUP BY category
 ORDER BY gross_revenue DESC;
-
----
-
-📋 EXECUTIVE ACTION PLAN:
-
-1. Demographic Target Shift:
-Maximize ad-spend ROI by prioritizing male-oriented clothing and accessory 
-collections while introducing specific acquisition funnels to scale female 
-transaction averages.
-
-2. Geographic Logistics Allocation:
-Prioritize supply chain distribution layers to hubs servicing Montana, 
-Illinois, and California to preserve baseline safety stocks for top-selling 
-products.
-
-3. Future Predictive Analytics Scope:
-This database framework is structured to easily integrate machine learning 
-models (such as logistic regression) in Python to forecast prospective 
-customer churn thresholds.
