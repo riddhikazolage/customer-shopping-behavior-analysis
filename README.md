@@ -42,7 +42,7 @@ FROM retail_shopping_behavior
 GROUP BY category
 ORDER BY gross_revenue DESC;
 
---->**
+
 
 ## 🚀 Key Business Recommendations
 Demographic Target Shift: Maximize ad-spend ROI by prioritizing male-oriented clothing and accessory collections while introducing specific acquisition funnels to scale female transaction averages.
