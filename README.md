@@ -44,7 +44,10 @@ ORDER BY gross_revenue DESC;
 
 
 
-## 🚀 Key Business Recommendations
+
+----------------
+
+🚀 Key Business Recommendations
 Demographic Target Shift: Maximize ad-spend ROI by prioritizing male-oriented clothing and accessory collections while introducing specific acquisition funnels to scale female transaction averages.
 
 Geographic Logistics Allocation: Prioritize supply chain distribution layers to hubs servicing Montana, Illinois, and California to preserve baseline safety stocks for top-selling products.
