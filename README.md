@@ -50,8 +50,8 @@ Using **Python, PostgreSQL, SQL, and Power BI**, I transformed raw retail transa
 ## 👤 Author
 
 **Riddhika Zolage**
-LinkedIn: www.linkedin.com/in/riddhizolage10
 
+LinkedIn: www.linkedin.com/in/riddhizolage10
 
 GitHub: https://github.com/riddhikazolage
 
