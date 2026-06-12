@@ -26,8 +26,8 @@ Using **Python, PostgreSQL, SQL, and Power BI**, I transformed raw retail transa
 ## 🔍 Key Insights
 
 * Young Adults and Middle-Aged customers generated the highest revenue.
-* Clothing was the top-performing product category.
-* Subscribers spent significantly more than non-subscribers.
+* Clothing generated the highest revenue among all product categories.
+* Subscribers spent approximately 2× more per transaction than non-subscribers.
 * Over 70% of customers were non-subscribers, indicating strong growth potential.
 
 ## 💡 Recommendations
@@ -50,6 +50,6 @@ Using **Python, PostgreSQL, SQL, and Power BI**, I transformed raw retail transa
 ## 👤 Author
 
 **Riddhika Zolage**
-
+LinkedIn: www.linkedin.com/in/riddhizolage10
 GitHub: https://github.com/riddhikazolage
 
