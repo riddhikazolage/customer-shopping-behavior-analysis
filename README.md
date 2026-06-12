@@ -1,8 +1,7 @@
 ![Excel](https://img.shields.io/badge/Excel-Data%20Validation-217346)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626)
-![Python](https://img.shields.io/badge/Python-Pandas%20%26%20NumPy-3776AB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
-![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811)
+![Python](https://img.shields.io/badge/Python-Data%20Cleaning%20%26%20EDA-3776AB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database%20Management-336791)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811)
 
 # 🛍️ Customer Shopping Behavior Analysis
 
